@@ -1,2 +1,2 @@
 # DesignPatterns
-Design Pattern implementation in several languages
+Design Pattern implementation that i have found in a book
